@@ -1,1 +1,3 @@
 # Data_warehouse_tech_stack
+
+A stack represents a set of robust components & modular technologies that allow users to develop powerful and enterprise-grade applications. Similarly, a data analytics stack encompasses diverse technologies that let users and businesses build a robust analytics engine to aggregate, integrate, model and trahavae imnsform data from numerous data sources.A data warehouse allows users to consolidate and aggregate data from numerous data sources in a centralised location. In this project we have created an ELT pipline with the help of different data Warehouse and visualizatoion methods. 
